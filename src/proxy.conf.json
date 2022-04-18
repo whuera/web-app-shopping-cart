@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+      "target": "https://calm-rock-0d0c8e20f.1.azurestaticapps.net/",
+      "secure": false,
+      "logLevel": "debug"
+  }
+}
